@@ -33,6 +33,6 @@ Become a Software Engineer and contribute to Open Source.
 
 ## 📫 Connect with Me
 
-LinkedIn: (Add Later)
+LinkedIn: www.linkedin.com/in/abhijnan-mondal-86785b314
 
-Email: yourmail@gmail.com
+Email: abhijnanmondalkalnaofficial.com
