@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there 👋, I'm Abhijnan Mondal
 
-<!--
-**Abhijnan07/Abhijnan07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+🎓 B.Tech Student (Computer Science & Business Systems)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently learning:
+- C++
+- Data Structures & Algorithms
+- Git & GitHub
+
+🌱 My Goal
+Become a Software Engineer and contribute to Open Source.
+
+---
+
+## 🛠 Languages & Tools
+
+- C++
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📚 Currently Working On
+
+- Learning C++
+- Practicing DSA
+- Building Beginner Projects
+
+---
+
+## 📫 Connect with Me
+
+LinkedIn: (Add Later)
+
+Email: yourmail@gmail.com
